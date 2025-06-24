@@ -1,2 +1,2 @@
 # binary_classification_rice
-Binary rice classification
+The Binary rice classification 
